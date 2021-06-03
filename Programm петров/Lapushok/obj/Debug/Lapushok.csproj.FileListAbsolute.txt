@@ -1,0 +1,16 @@
+D:\WSR\Programm\Lapushok\bin\Debug\Lapushok.exe.config
+D:\WSR\Programm\Lapushok\bin\Debug\Lapushok.exe
+D:\WSR\Programm\Lapushok\bin\Debug\Lapushok.pdb
+D:\WSR\Programm\Lapushok\obj\Debug\User_Control\exit_info.g.cs
+D:\WSR\Programm\Lapushok\obj\Debug\WIndows\MainWindow.g.cs
+D:\WSR\Programm\Lapushok\obj\Debug\App.g.cs
+D:\WSR\Programm\Lapushok\obj\Debug\Lapushok_MarkupCompile.cache
+D:\WSR\Programm\Lapushok\obj\Debug\Lapushok_MarkupCompile.lref
+D:\WSR\Programm\Lapushok\obj\Debug\User_Control\exit_info.baml
+D:\WSR\Programm\Lapushok\obj\Debug\WIndows\MainWindow.baml
+D:\WSR\Programm\Lapushok\obj\Debug\Lapushok.g.resources
+D:\WSR\Programm\Lapushok\obj\Debug\Lapushok.Properties.Resources.resources
+D:\WSR\Programm\Lapushok\obj\Debug\Lapushok.csproj.GenerateResource.cache
+D:\WSR\Programm\Lapushok\obj\Debug\Lapushok.csproj.CoreCompileInputs.cache
+D:\WSR\Programm\Lapushok\obj\Debug\Lapushok.exe
+D:\WSR\Programm\Lapushok\obj\Debug\Lapushok.pdb
