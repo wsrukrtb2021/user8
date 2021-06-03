@@ -9,7 +9,7 @@
 
         <Border BorderBrush="Gray" CornerRadius="15" BorderThickness="1" HorizontalAlignment="Left" Height="200" Margin="5,5,0,-5" VerticalAlignment="Top" Width="766"/>
 
-        <Image x:Name="Photo" HorizontalAlignment="Left" Height="120" Margin="26,48,0,0" VerticalAlignment="Top" Width="120" />
+        <Image x:Name="Photo" HorizontalAlignment="Left" Height="120" Margin="26,48,0,0" VerticalAlignment="Top" Width="120" Source="picture_default.png" /> 
         <Label x:Name="Type" Content="Тип продукта" HorizontalAlignment="Left" Margin="246,10,0,0" VerticalAlignment="Top" FontFamily="Gabriola" FontSize="20"/>
         <Label Content="|" HorizontalAlignment="Left" Margin="349,10,0,0" VerticalAlignment="Top" FontFamily="Gabriola" FontSize="20"/>
         <Label x:Name="Name" Content="Наименование продукта" HorizontalAlignment="Left" Margin="370,14,0,0" VerticalAlignment="Top" FontFamily="Gabriola" FontSize="20"/>
@@ -17,7 +17,7 @@
         <Label Content="Материалы:" HorizontalAlignment="Left" Margin="246,80,0,0" VerticalAlignment="Top" FontFamily="Gabriola" FontSize="20"/>
         <Label x:Name="Materials" Content="Материал1, материал2 ..." HorizontalAlignment="Left" Margin="349,80,0,0" VerticalAlignment="Top" FontFamily="Gabriola" FontSize="20"/>
         <Label x:Name="Price" Content="Стоимость" HorizontalAlignment="Left" Margin="349,120,0,0" VerticalAlignment="Top" FontFamily="Gabriola" FontSize="20"/>
-        <Button x:Name="Delete" Content="Удалить" HorizontalAlignment="Left" Margin="640,39,0,0" VerticalAlignment="Top" Width="110" Click="Delete_Click"/>
+        <Button x:Name="Delete" Content="Удалить" HorizontalAlignment="Left" Margin="640,14,0,0" VerticalAlignment="Top" Width="110" Click="Delete_Click"/>
         <Label x:Name="Person" Content="Person" HorizontalAlignment="Left" Margin="541,44,0,0" VerticalAlignment="Top" FontFamily="Gabriola" FontSize="20" Visibility="Hidden"/>
         <Label x:Name="Number" Content="Number" HorizontalAlignment="Left" Margin="541,80,0,0" VerticalAlignment="Top" FontFamily="Gabriola" FontSize="20" Visibility="Hidden"/>
         <Label x:Name="Minimum" Content="Minimum" HorizontalAlignment="Left" VerticalAlignment="Top" FontFamily="Gabriola" FontSize="20" Margin="541,120,0,0" Visibility="Hidden"/>
@@ -25,7 +25,7 @@
         <Label x:Name="Article_Copy" Content="Артикул:" HorizontalAlignment="Left" Margin="246,48,0,0" VerticalAlignment="Top" FontFamily="Gabriola" FontSize="20"/>
         <Label x:Name="Price_Copy" Content="Стоимость:" HorizontalAlignment="Left" Margin="246,120,0,0" VerticalAlignment="Top" FontFamily="Gabriola" FontSize="20"/>
         <Label x:Name="ID" Content="ID" HorizontalAlignment="Left" Margin="541,14,0,0" VerticalAlignment="Top" FontFamily="Gabriola" FontSize="20" Visibility="Hidden"/>
-        <Button x:Name="Redact" Content="Редактировать" HorizontalAlignment="Left" Margin="640,14,0,0" VerticalAlignment="Top" Width="110"/>
+       
 
     </Grid>
 </UserControl>

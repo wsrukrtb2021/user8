@@ -103,7 +103,17 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="Class_libruary\" />
     <Folder Include="resourses\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Class_libruary\ClassLibrary1\WSUniversalLib.csproj">
+      <Project>{033407e2-3a6d-4a5b-bae5-7a476520982c}</Project>
+      <Name>WSUniversalLib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="User_Control\picture_default.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

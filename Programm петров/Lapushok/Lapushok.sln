@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31321.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lapushok", "Lapushok.csproj", "{814A64F3-0703-4BF3-8D2C-3A1B641372CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WSUniversalLib", "Class_libruary\ClassLibrary1\WSUniversalLib.csproj", "{033407E2-3A6D-4A5B-BAE5-7A476520982C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{814A64F3-0703-4BF3-8D2C-3A1B641372CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{814A64F3-0703-4BF3-8D2C-3A1B641372CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{814A64F3-0703-4BF3-8D2C-3A1B641372CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{033407E2-3A6D-4A5B-BAE5-7A476520982C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{033407E2-3A6D-4A5B-BAE5-7A476520982C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{033407E2-3A6D-4A5B-BAE5-7A476520982C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{033407E2-3A6D-4A5B-BAE5-7A476520982C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

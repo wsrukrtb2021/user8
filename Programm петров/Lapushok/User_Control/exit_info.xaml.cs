@@ -14,7 +14,7 @@ namespace Lapushok.User_Control
         }
         public MainWindow Main;
 
-      
+
         private void Delete_Click(object sender, RoutedEventArgs e)
         {
             using (SqlConnection connection = new SqlConnection(Lapushok.conn.conn.String))
@@ -32,10 +32,7 @@ namespace Lapushok.User_Control
                 }
             }
         }
-
-       
-
     }
-
-
 }
+
+
